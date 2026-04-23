@@ -1,0 +1,3 @@
+echo "venv/" > .gitignore
+echo ".DS_Store" >> .gitignore
+echo "__pycache__/" >> .gitignore
